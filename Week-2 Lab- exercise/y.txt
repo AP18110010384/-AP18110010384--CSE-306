@@ -8,7 +8,7 @@ a : identifier
 ,
 b : identifier
 ==: relational operator EQ 
-8: number
+7: number
 . 
 87: number
 ;
